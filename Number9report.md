@@ -1,6 +1,6 @@
 ## Report for number 9
 
-**GAN Algorithnm used: DCGAN**
+**GAN Algorithm used: DCGAN**
 ## Introduction
 Generative Adversarial Networks (GANs) employ two deep learning architectures as adversaries – Generator and Discriminator to promote the Generator to create data that belong to a particular dataset. GANs have proven to be able to generate images that look at least superficially authentic to human eyes. For a Generator to be able to learn the mappings from a latent variable space to a particular data distribution, it is imperative for the Discriminator to be a stronger model, that is, a stronger classifier. A strong Discriminator will force the Generator to find the features relevant to the data distribution, thus, improving the Generator’s performance. Deep Convolutional GAN (DCGAN) features a deconvolutional neural network that generates data (the Generator) and a convolutional neural network model that classifies whether an input image is a fake or a real image. 
 
@@ -12,7 +12,7 @@ The Deconvolutional Neural Network (Generator)  is made up of 4 convolutional la
 ## Define loss functions
 -   **Discriminator loss**
     
-    -   The discriminator loss function takes 2 inputs;  ** real images,  generated images**
+    -   The discriminator loss function takes 2 inputs;  ** real images**,  **generated images**
     -   D_loss_real is a sigmoid cross entropy loss of the  **real images**  and an  **array of ones (since these are the real images)**
     -   D_loss_fake is a sigmoid cross entropy loss of the  **generated images**  and an  **array of zeros (since these are the fake images)**
     -   Then the D_loss is the sum of D_loss_real and the D_loss_fake
@@ -48,4 +48,3 @@ The figure below shows  the training results:
 
 
 **By Sandra Kumi/20185122
-
