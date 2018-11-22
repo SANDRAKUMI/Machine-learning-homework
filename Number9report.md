@@ -30,6 +30,8 @@ The Deconvolutional Neural Network (Generator)  is made up of 4 convolutional la
 
 ## Results
 The figure below shows  the training results:
+
+
 ![enter image description here](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/dcgan_fashion_mnist_images/training%20results.PNG)
 
 ![enter image description here](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/dcgan_fashion_mnist_images/FASHION_MNIST_DCGAN_train_hist.png)
@@ -46,3 +48,4 @@ The figure below shows  the training results:
 
 
 **By Sandra Kumi/20185122
+
