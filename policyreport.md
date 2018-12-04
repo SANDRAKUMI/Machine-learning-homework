@@ -12,7 +12,12 @@ Below is screenshot of the execution of the code:
 
 |Initial Stage|Final Stage|
 |--|--|
-| ![enter image description here](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG) | https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/final%20stage.PNG |
+| ![enter image description here](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG) |![enter image description here](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/final%20stage.PNG)  |
+
+
+
+
+|
 
 
 
