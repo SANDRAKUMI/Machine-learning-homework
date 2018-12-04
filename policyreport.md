@@ -7,6 +7,9 @@ Grid world with reinforcement learning. The rectangle must reach the circle with
 ## Execution of the original code
 
 Command used : python policy_iteration.py
+
 Below is screenshot of the execution of the code:
 
-![**initial stage**(https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG)
+![**intial stage**]https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG)
+
+
