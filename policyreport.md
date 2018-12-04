@@ -10,6 +10,10 @@ Command used : python policy_iteration.py
 
 Below is screenshot of the execution of the code:
 
-![**intial stage**]https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG)
+![**initial stage**
+](https://github.com/SANDRAKUMI/Machine-learning-homework/blob/master/grid%20eva1.PNG)
+
+
+
 
 
